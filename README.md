@@ -1,2 +1,3 @@
 # hello-world
-It's a hello-world repository created by NotEvenCloseBoi
+This is the first repository made by NotEvenCloseBoi.
+NotEvenCloseBoi, as the ID suggests, is a boi with taunt and says "NotEvenClose" everytime he is lucky.
